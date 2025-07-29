@@ -1,6 +1,6 @@
 # Change Log
 
-## 1.3.0 - WIP
+## 1.3.0 - Jul 29, 2025
 **BC change:** Increased minimal PHP version to 7.1.0! (#47)
 
 ## 1.2.1 - Jun 27, 2025
